@@ -1,10 +1,9 @@
 # udacity-02-popular-movies
-
 This is an app to allow users to discover the most popular movies playing.
 
 
-## How to use
-**Insert TMDb API Key**  
+## How to Use
+-**Insert TMDb API Key**  
 
 popularmovies\utilities\NetworkUtils.java
 
