@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="menu_refresh">REFRESH</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_sort_popular">by most popular</string>
+    <string name="menu_sort_top_rate">by highest rated</string>
+    <string name="menu_license_notice">OSS Notice</string>
+    <string name="image_description_poster">Poster</string>
+
+    <string name="error_load_fail">
+        An error has occurred. Please try again by clicking REFRESH.
+    </string>
+    
+    <!-- MovieDetailActivity -->
+    <string name="movie_detail_synopsis">Synopsis</string>
+    <string name="movie_detail_release_date">Release Date</string>
+    <string name="movie_detail_vote_average">Rating</string>
+    <string name="movie_detail_max_rating">/10</string>
+
+    <!-- LicenseActivity -->
+    <string name="license_title">Open Source Software Notice</string>
+    <string name="license_glide_title">* Glide</string>
+    <string name="license_glide_github">https://github.com/bumptech/glide</string>
+    <string name="license_glide_license">https://github.com/bumptech/glide/blob/master/LICENSE</string>
+</resources>

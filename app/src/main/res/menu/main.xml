@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="@string/menu_refresh"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:title="@string/menu_sort">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/menu_sort_popular"
+                    android:title="@string/menu_sort_popular"
+                    android:checked="true" />
+                <item
+                    android:id="@+id/menu_sort_top_rate"
+                    android:title="@string/menu_sort_top_rate" />
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_license_notice"
+        android:title="@string/menu_license_notice" />
+
+</menu>
