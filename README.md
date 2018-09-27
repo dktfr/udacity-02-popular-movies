@@ -5,7 +5,7 @@ This is an app to allow users to discover the most popular movies playing.
 ## How to Use
 - **Insert TMDb API Key**  
 
-popularmovies\utilities\NetworkUtils.java
+in ..popularmovies\utilities\NetworkUtils.java
 
     public class NetworkUtils {
         ...
